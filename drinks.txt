@@ -1,3 +1,6 @@
 wine
 juice
 vodka
+smoothies
+lemonade
+dr pepper
